@@ -1,2 +1,1 @@
-# boon-nlp
-BOON : A Conversational Generative based Chatbot
+# BOON : A Conversational Generative based Chatbot
