@@ -50,11 +50,11 @@
 ```
 python -m nmt.nmt \
     --src=vi --tgt=en \
-    --vocab_prefix=/home/anjanatiha/Downloads/project/Code/current_code/inout/input/nmt_data/vocab  \
-    --train_prefix=/home/anjanatiha/Downloads/project/Code/current_code/inout/input/nmt_data/train \
-    --dev_prefix=/home/anjanatiha/Downloads/project/Code/current_code/inout/input/nmt_data/tst2012  \
-    --test_prefix=/home/anjanatiha/Downloads/project/Code/current_code/inout/input/nmt_data/tst2013 \
-    --out_dir=/home/anjanatiha/Downloads/project/Code/current_code/inout/output/nmt_model \
+    --vocab_prefix=/home/rkc007/project/Code/inout/input/nmt_data/vocab  \
+    --train_prefix=/home/rkc007/project/code/inout/input/nmt_data/train \
+    --dev_prefix=/home/rkc007/project/code/inout/input/nmt_data/tst2012  \
+    --test_prefix=/home/rck007/project/code/inout/input/nmt_data/tst2013 \
+    --out_dir=/home/rkc007/project/code/inout/output/nmt_model \
     --attention=scaled_luong \
     --num_train_steps=12000 \
     --steps_per_stats=100 \
