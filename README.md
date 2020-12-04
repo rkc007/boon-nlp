@@ -76,7 +76,7 @@ python -m nmt.nmt \
    `source ~/tensorflow/bin/activate` 
 
 2. move to nmt module:   
-   `cd /home/anjanatiha/Downloads/project/Code/current_code/nmt`
+   `cd /home/rkc007/project/code/nmt`
 3. enter following command  
    `tensorboard --port 22222 --logdir /home/rkc007/project/code/inout/output/nmt_model` 
 ### Acknowledgements 
