@@ -79,6 +79,11 @@ python -m nmt.nmt \
    `cd /home/rkc007/project/code/nmt`
 3. enter following command  
    `tensorboard --port 22222 --logdir /home/rkc007/project/code/inout/output/nmt_model` 
+   
+### Future Work: 
+1. Working on creating a server using Flask to host this chatbot.
+2. Chatbot to work on public domain with different languages
+
 ### Acknowledgements 
 Major Thanks to *[Dr. Kevin Scannell ](https://cs.slu.edu/~scannell/index.html)* for teaching NLP course.   
 *[May Li](https://github.com/mayli10/deep-learning-chatbot)*   
